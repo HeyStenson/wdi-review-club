@@ -19,6 +19,10 @@ Instructor Notes
 1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
 
 
+
+
+
+
 ---
 
 ## 11/18/15 - TBA
