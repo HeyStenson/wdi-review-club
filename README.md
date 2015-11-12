@@ -18,7 +18,7 @@ Control is the order that a programs flows. If this happens do something else do
 We will be giving an overview of **Control Flow**
 and **Loops**. We will begin by reviewing the documentation provided. Then we will progress to inclass exercises.
 
-##- resources
+## resources
   * [MDN-Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling) - if/else
   * [MDN-If/Else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   * [Array.prototype.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
