@@ -33,18 +33,18 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
 
 <img src="http://i.giphy.com/iB37W6VDrWWAw.gif" width="100">
 
--. If - Else exercise:
+- . If - Else exercise:
   * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef) 
     * [answer](https://gist.github.com/goodbedford/ab8a2461ca6600f5e9fb)
 
 <img src="http://i.giphy.com/wOkzEib5YZfs4.gif" width="100">
 
--. Loops - [Adopt a Puppy List](https://gist.github.com/goodbedford/0fc278e5b6275a709181)
+- . Loops - [Adopt a Puppy List](https://gist.github.com/goodbedford/0fc278e5b6275a709181)
   * write a for loop
   * write a while loop
   * write a forEach
   * [answer](https://gist.github.com/goodbedford/e4ae32f5d571e80d53c9)
--. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
+- . Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
   * Basic Javascript: Waypoint: 5 - 9
   * Object Oriented and Functional Programming: Waypoint: 12-13
   * Basic Algorithm Scripting: 2,5
