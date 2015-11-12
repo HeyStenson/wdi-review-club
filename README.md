@@ -31,13 +31,13 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
 
   --
 
-<img src="http://giphy.com/gifs/film-clueless-amy-heckerling-iB37W6VDrWWAw" width="100">
+<img src="http://i.giphy.com/iB37W6VDrWWAw.gif" width="100">
 
 1. If - Else exercise:
   * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef) 
     * [answer](https://gist.github.com/goodbedford/ab8a2461ca6600f5e9fb)
     
-<img src="http://giphy.com/gifs/jimmy-fallon-puppies-late-night-with-wOkzEib5YZfs4" width="100">
+<img src="http://i.giphy.com/wOkzEib5YZfs4.gif" width="100">
 
 1. Loops - [Adopt a Puppy List](https://gist.github.com/goodbedford/0fc278e5b6275a709181)
   * write a for loop
