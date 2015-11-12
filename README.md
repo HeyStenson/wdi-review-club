@@ -25,8 +25,9 @@ Control is the order that a programs flows. If this happens do something else do
   1. [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
 
-objectives
-
+###objectives
+We will be giving an overview of **Control Flow**
+and **Loops**.
 
 
 
