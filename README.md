@@ -5,29 +5,27 @@
 * <a href="#nov/18/15">Nov/18/15</a>: - TBA
 
 
-Instructor Notes
-
-1. introductions, staff and students
-1. resources
-
 ---
 
-### <a href="#" name="nov/11/15"></a>Nov/11/15 - Control Flow, Loops, String Methods
+<a href="#" name="nov/11/15"></a> ###Nov/11/15 - Control Flow, Loops, String Methods
 
 Control is the order that a programs flows. If this happens do something else do something else.
 <img src="http://www.byterevel.com/wp-content/uploads/2011/07/ifelse.png" width="100"> *image from byterevel.com*
 
-1. resources 
-  1. [MDN-Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling) - if/else
-  1. [MDN-If/Else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
-  1. [Array.prototype.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
-  1. [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-  1. [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
-1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
-
 ###objectives
 We will be giving an overview of **Control Flow**
-and **Loops**.
+and **Loops**. We will begin by reviewing the documentation provided. Then we will progress to inclass exercises.
+
+1. resources 
+  * [MDN-Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling) - if/else
+  * [MDN-If/Else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+  * [Array.prototype.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+  * [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+  * [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
+  * Basic Javascript: Waypoint: 5 - 9
+1.
+
 
 
 
