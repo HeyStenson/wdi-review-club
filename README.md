@@ -25,16 +25,16 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
   * [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
   * [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
   * [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
-  * Basic Javascript: Waypoint: 5 - 9
-  * Object Oriented and Functional Programming: Waypoint: 12-13
-  * Basic Algorithm Scripting: 2,5
 1. If - Else exercise:
   * What will John wear
 1. Loops - Adopt a Puppy List
   * write a for loop
   * write a while loop
   * write a forEach
+1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
+  * Basic Javascript: Waypoint: 5 - 9
+  * Object Oriented and Functional Programming: Waypoint: 12-13
+  * Basic Algorithm Scripting: 2,5
 
 
 
