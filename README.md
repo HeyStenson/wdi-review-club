@@ -7,7 +7,7 @@
 
 ---
 
-<a href="#" name="nov/11/15"></a> ###Nov/11/15 - Control Flow, Loops, String Methods
+<a href="#" name="nov/11/15"></a> Nov/11/15 - Control Flow, Loops, String Methods
 
 Control is the order that a programs flows. If this happens do something else do something else.
 <img src="http://www.byterevel.com/wp-content/uploads/2011/07/ifelse.png" width="100"> *image from byterevel.com*
@@ -22,9 +22,17 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
   * [Array.prototype.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
   * [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
   * [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+  * [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
   * Basic Javascript: Waypoint: 5 - 9
-1.
+  * Object Oriented and Functional Programming: Waypoint: 12-13
+  * Basic Algorithm Scripting: 2,5
+1. If - Else exercise:
+  * What will John wear
+1. Loops - Adopt a Puppy List
+  * write a for loop
+  * write a while loop
+  * write a forEach
 
 
 
