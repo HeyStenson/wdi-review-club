@@ -25,8 +25,12 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
   * [String.prototype.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
   * [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
   * [Array.prototype.forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+  * [Array.prototype.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+  * [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+  * [Array.prototype.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
 1. If - Else exercise:
-  * What will John wear
+  * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef)
+    * [answer](https://gist.github.com/goodbedford/ab8a2461ca6600f5e9fb)
 1. Loops - Adopt a Puppy List
   * write a for loop
   * write a while loop
