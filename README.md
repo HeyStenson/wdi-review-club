@@ -28,6 +28,7 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
   * [Array.prototype.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
   * [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
   * [Array.prototype.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+  
   --
 1. If - Else exercise:
   * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef) 
