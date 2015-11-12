@@ -18,7 +18,7 @@ Control is the order that a programs flows. If this happens do something else do
 We will be giving an overview of **Control Flow**
 and **Loops**. We will begin by reviewing the documentation provided. Then we will progress to inclass exercises.
 
-1. resources 
+1. resources
   * [MDN-Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling) - if/else
   * [MDN-If/Else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
   * [Array.prototype.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
@@ -29,12 +29,13 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
   * [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
   * [Array.prototype.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
 1. If - Else exercise:
-  * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef)
+  * What will [Loretta wear](https://gist.github.com/goodbedford/32d5d9e3ff20bcf0a4ef) 
     * [answer](https://gist.github.com/goodbedford/ab8a2461ca6600f5e9fb)
-1. Loops - Adopt a Puppy List
+1. Loops - [Adopt a Puppy List](https://gist.github.com/goodbedford/0fc278e5b6275a709181)
   * write a for loop
   * write a while loop
   * write a forEach
+  * [answer](https://gist.github.com/goodbedford/e4ae32f5d571e80d53c9)
 1. Sign up for [freeCodeCamp](http://www.freecodecamp.com/map)
   * Basic Javascript: Waypoint: 5 - 9
   * Object Oriented and Functional Programming: Waypoint: 12-13
