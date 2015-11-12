@@ -7,7 +7,7 @@
 
 ---
 
-<a href="#" name="nov/11/15"></a> Nov/11/15 - Control Flow, Loops, String Methods
+<a href="#" name="nov/11/15"></a> ## Nov/11/15 - Control Flow, Loops, String Methods
 
 <img src="http://www.byterevel.com/wp-content/uploads/2011/07/ifelse.png" width="100"><br> *image from byterevel.com*
 
