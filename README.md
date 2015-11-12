@@ -3,6 +3,7 @@
 ## Contents
 * **[Nov/11/15](#Nov/11/15):** - Control Flow, Loops, String Methods
 * **[Nov/18/15](#Nov/18/15):** - TBA
+* **<a href="#nov/18/15">Nov/18/15</a>: - TBA
 
 
 Instructor Notes
@@ -33,4 +34,4 @@ and **Loops**.
 
 ---
 
-### <a id="Nov/18/15">11/18/15 - TBA</a>
+### <a name="nov/18/15">11/18/15 - TBA</a>
