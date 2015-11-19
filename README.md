@@ -56,7 +56,14 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
 
 ### <a name="nov/18/15">11/18/15 - Functions, Array Methods, and jQuery</a>
 
-# Functions
+#### Functions
 Let's write a FizzBuzz function! The rules are simple: write a function that takes a number as an argument. This function will count through all the numbers up to the number you give it, but there's a twist: if the number is divisible by 3, the function should print out "fizz"; if the number is divisible by 5, the function should print out "buzz"; and if the number is divisible by both 3 AND 5, the function should print out "fizzbuzz". Otherwise, just print out the number. 
 
-# Array Methods
+#### Array Methods
+To review array methods, let's work through the following Free Code Camp exercises:
+  * [Access array data with indexes](http://www.freecodecamp.com/challenges/waypoint-access-array-data-with-indexes)
+  * [Manipulate arrays with pop](http://www.freecodecamp.com/challenges/waypoint-manipulate-arrays-with-pop)
+  * [Manipulate arrays with push](http://www.freecodecamp.com/challenges/waypoint-manipulate-arrays-with-push)
+  * [Manipulate arrays with shift](http://www.freecodecamp.com/challenges/waypoint-manipulate-arrays-with-shift)
+  * [Manipulate arrays with unshift](http://www.freecodecamp.com/challenges/waypoint-manipulate-arrays-with-unshift)
+  * [Iterate through arrays using for loops](http://www.freecodecamp.com/challenges/waypoint-iterate-with-javascript-for-loops)
