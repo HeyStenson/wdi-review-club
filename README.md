@@ -2,7 +2,7 @@
 
 ## Contents
 * <a href="#nov/11/15">Nov/11/15</a>: - Control Flow, Loops, String Methods
-* <a href="#nov/18/15">Nov/18/15</a>: - TBA
+* <a href="#nov/18/15">Nov/18/15</a>: - Functions, Array Methods, and jQuery
 
 
 ---
@@ -54,4 +54,9 @@ and **Loops**. We will begin by reviewing the documentation provided. Then we wi
 
 ---
 
-### <a name="nov/18/15">11/18/15 - TBA</a>
+### <a name="nov/18/15">11/18/15 - Functions, Array Methods, and jQuery</a>
+
+# Functions
+Let's write a FizzBuzz function! The rules are simple: write a function that takes a number as an argument. This function will count through all the numbers up to the number you give it, but there's a twist: if the number is divisible by 3, the function should print out "fizz"; if the number is divisible by 5, the function should print out "buzz"; and if the number is divisible by both 3 AND 5, the function should print out "fizzbuzz". Otherwise, just print out the number. 
+
+# Array Methods
